@@ -1,3 +1,8 @@
+## What's Changed in 1.2.6
+* release: v1.2.6 by @ajiho
+
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.5...v1.2.6
+
 ## What's Changed in 1.2.5
 * release: v1.2.5 by @ajiho
 * fdsf by @ajiho
