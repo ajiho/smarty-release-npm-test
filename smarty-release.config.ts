@@ -12,10 +12,10 @@ export default defineConfig({
       template: "github",
       config: {
         remote: {
-          github: {
-            owner: "smarty-release2",
-            repo: "demo",
-          },
+          // github: {
+          //   owner: "smarty-release2",
+          //   repo: "demo",
+          // },
         },
       },
     },

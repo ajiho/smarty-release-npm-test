@@ -1,4 +1,5 @@
-## What's Changed in 1.1.0
+## What's Changed in 1.2.1
+* update by @ajiho
 * chore: ignore node_modules by @ajiho
 * chore: remove node_modules from git tracking by @ajiho
 * first commit by @ajiho
