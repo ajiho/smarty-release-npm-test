@@ -1,4 +1,5 @@
-## What's Changed in 1.2.1
+## What's Changed in 1.2.5
+* fdsf
 * update by @ajiho
 * chore: ignore node_modules by @ajiho
 * chore: remove node_modules from git tracking by @ajiho
