@@ -1,7 +1,8 @@
 ## What's Changed in 1.2.10
+* release: v1.2.10 by @ajiho
 * add readme.md by @ajiho
 
-**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.9...1.2.10
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.9...v1.2.10
 
 ## What's Changed in 1.2.9
 * release: v1.2.9 by @ajiho
