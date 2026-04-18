@@ -23,7 +23,12 @@ export default defineConfig({
   },
 
   hooks: {
-    "before:init": ["npm run test"],
+    "before:init": [
+      "npm run test",
+      async () => {
+        console.log("w");
+      },
+    ],
     // "before:init": "pnpm test",
     // "before:init": "echo 已推送 v${version}",
     // "before:init": function ({ logger, version }) {
