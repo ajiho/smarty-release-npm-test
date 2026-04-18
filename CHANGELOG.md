@@ -1,3 +1,8 @@
+## What's Changed in 1.2.8
+* release: v1.2.8 by @ajiho
+
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.7...v1.2.8
+
 ## What's Changed in 1.2.7
 * release: v1.2.7 by @ajiho
 
