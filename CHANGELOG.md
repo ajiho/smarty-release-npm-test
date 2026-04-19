@@ -1,7 +1,13 @@
+## What's Changed in 1.2.14
+* dsa
+
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.13...1.2.14
+
 ## What's Changed in 1.2.13
+* release: v1.2.13
 * Sve
 
-**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.12...1.2.13
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.2.12...v1.2.13
 
 ## What's Changed in 1.2.12
 * release: v1.2.12 by @ajiho
