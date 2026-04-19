@@ -1,3 +1,10 @@
+## What's Changed in 1.3.2
+* dsadas
+* afds
+* aa
+
+**Full Changelog**: https://github.com/ajiho/smarty-release-npm-test/compare/v1.3.0...1.3.2
+
 ## What's Changed in 1.3.0
 * release: v1.3.0
 * a
