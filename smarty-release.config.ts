@@ -26,7 +26,7 @@ export default defineConfig({
     "before:init": [
       "npm run test",
       async () => {
-        console.log("w");
+        console.log("wd");
       },
     ],
     // "before:init": "pnpm test",
